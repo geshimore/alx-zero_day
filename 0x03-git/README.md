@@ -1,1 +1,1 @@
-git repository
+Collaboration: be up to date
